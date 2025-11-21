@@ -1,3 +1,6 @@
-pandas
-numpy
+google-generativeai
 pdfplumber
+pandas
+openpyxl
+streamlit
+python-dotenv
